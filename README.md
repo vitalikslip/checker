@@ -5,3 +5,5 @@ Past and unzip files into protocols folder from here: https://www.dropbox.com/sc
 Past your wallets adreses(NOT PRIVATE KEYS) into wallets.txt file
 
 Run main.py
+
+Result of your allocation will be written to the result.txt file
